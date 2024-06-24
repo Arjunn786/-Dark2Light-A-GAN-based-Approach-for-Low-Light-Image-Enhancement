@@ -21,6 +21,7 @@ The project uses the LoL (Low-Light Image Enhancement) dataset, which consists o
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/Arjunn786/Dark2Light: A GAN-based Approach for Low-Light Image Enhancement.git
+1. Clone the repository: git clone https://github.com/Arjunn786/-Dark2Light-A-GAN-based-Approach-for-Low-Light-Image-Enhancement.git
+
 
 2. Install the required packages: pip install -r requirements.txt
